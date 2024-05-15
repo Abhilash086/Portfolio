@@ -699,10 +699,10 @@ form .send-btn{
     }
 
     .hero{
-        background-size: 174% 110%;
+        background-size: 209% 102%;
         padding-top: 81px;
-        background-position: 61% top;
-        height: 66vh;
+        background-position: 59% top;
+        height: 74vh;
     }
     :root{
         --h1-font: 3rem;
